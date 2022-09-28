@@ -6,3 +6,8 @@ Os participantes do grupo são:
 #) Gabriel Antonio Costa da Rosa
 #) João Victor Barros Guedes
 #) Henrique Cabral Velloso da Silva
+
+Devido ao decorrer do desenvolvimento, não foi possível concluir 100%, houve dificuldades quanto:
+#) à estruturação das matrizes (montar o mapa);
+#) erros internos dentro do código que não foi possível ajustar a tempo.
+
